@@ -1,0 +1,2 @@
+# TypescriptSolution
+TypeScript basic learning 
