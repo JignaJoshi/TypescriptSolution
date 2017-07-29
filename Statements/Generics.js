@@ -5,7 +5,6 @@ function doReverse(list) {
     }
     return revList;
 }
-//add letters
 var letters = ['a', 'b', 'c', 'd', 'e'];
 var reversedLetters = doReverse(letters);
 console.log(reversedLetters);
